@@ -18,9 +18,12 @@ Being a tutor of English I realized a necessity of applying languages not only f
 
 ## Code example:
 
-Write Number in Expanded Form
+Write Number in Expanded Form.
+
 You will be given a number and you will need to return it as a string in Expanded Form.
+
 For example:
+
 expandedForm(70304). Should return ‘70000 + 300 + 4’
 
 ```
