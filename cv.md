@@ -41,7 +41,7 @@ expandedForm(70304); // Should return ‘70000 + 300 + 4’
 
 ## Projects
 
-\*cv https://klio7.github.io/rsschool-cv/cv
+- [cv](https://klio7.github.io/rsschool-cv/cv)
 
 ## Education
 
