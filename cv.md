@@ -2,9 +2,9 @@
 
 ## Contact information:
 
-- - Phone: +7 978 048 92 88
-- - E-mail: Klio7@mail.ru
-- - Discord: terpsihora3
+- Phone: +7 978 048 92 88
+- E-mail: Klio7@mail.ru
+- Discord: terpsihora3
 
 ## Summary:
 
@@ -21,7 +21,7 @@ Being a tutor of English I realized a necessity of applying languages not only f
 Write Number in Expanded Form
 You will be given a number and you will need to return it as a string in Expanded Form.
 For example:
-expandedForm(70304); // Should return ‘70000 + 300 + 4’
+expandedForm(70304). Should return ‘70000 + 300 + 4’
 
 ```
  function expandedForm(num) {
