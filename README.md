@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Klio7.github.io/rsschool-cv/
